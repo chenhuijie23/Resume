@@ -1,7 +1,7 @@
 
 title: My Resume
 url: 'http://chenhuijie.com'
-baseurl: 'www.chenhuijie23.com/' #change it according to your repository name
+baseurl: 'chenhuijie23.github.io/' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
